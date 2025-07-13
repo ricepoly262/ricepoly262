@@ -1,4 +1,5 @@
-CS Enthusiast\
+CS Enthusiast
+Server admin for DEWSTREAM
 
 <!---
 ricepoly262/ricepoly262 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
